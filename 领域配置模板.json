@@ -1,0 +1,16 @@
+{
+  "prepared_by_agent": false,
+  "domain_name": "由Agent从本任务标题、摘要与最终Claim归纳",
+  "source_papers_sha256": "由prepare-domain填写",
+  "source_claims_sha256": "由prepare-domain填写",
+  "topic_terms": [],
+  "generic_topics": [],
+  "frequency_topics": [],
+  "mechanism_cues": ["机制", "通过", "实现", "介导", "组织", "协调", "分配", "产生", "驱动", "传播", "同步", "反映", "表明", "提示", "解释"],
+  "challenge_cues": ["未发现", "无证据", "未显示", "不能", "无法", "假阳性", "反对", "未改变", "不存在"],
+  "english_stopwords": ["the", "and", "with", "from", "that", "this", "for", "are", "was", "were", "is", "of"],
+  "lanes": [],
+  "lane_rules": [],
+  "default_lane_id": "",
+  "preparation_notes": "记录领域词、通用词、标签词和有序泳道规则的选择依据；不生成关系答案"
+}
